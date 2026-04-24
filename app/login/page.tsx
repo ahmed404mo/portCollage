@@ -115,7 +115,7 @@ export default function LoginPage() {
 
             <motion.button
               whileHover={{ scale: 1.02 }}
-              whileTap={{ scale: 0.98 }}
+              whileTap={{ scale: 0.97 }}
               disabled={isLoading}
               type="submit"
               className="w-full bg-gradient-to-r from-[#FF006E] to-[#FB5581] text-white font-bold py-3 rounded-xl shadow-lg shadow-[#FF006E]/20 flex items-center justify-center gap-2 disabled:opacity-50"
@@ -128,3 +128,4 @@ export default function LoginPage() {
     </div>
   )
 }
+// gonn
