@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="public/sara.png" width="120" alt="Sara Portfolio Logo" />
-</p>
+ظ
 
 <h1 align="center">Sara — Student Portfolio</h1>
 
